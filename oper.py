@@ -13,11 +13,16 @@
 # # = assignment operatort 
 # print(nume1==num2)
 # logical operator(and , or )
-num1=12
-print(num1>10 and num1<10)
-print(num1>10 and num1<15)
-print(num1>10 or num1<9)
-print(num1<10 or num1<8)
-print(num1!=13)
-print(num1!=12)
+# num1=12
+# print(num1>10 and num1<10)
+# print(num1>10 and num1<15)
+# print(num1>10 or num1<9)
+# print(num1<10 or num1<8)
+# print(num1!=13)
+# print(num1!=12)
+# 
+name = "Destaw"
+print("D" in name )
+print("d" in name)
+
 
